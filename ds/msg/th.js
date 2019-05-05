@@ -1,0 +1,3 @@
+Blockly.Msg.DS_TEXT_TEMP_TITLE   = "เซนเซอร์ DS18B20";
+Blockly.Msg.DS_TEXT_TOOLTIP = "DS TOOLTIP";
+Blockly.Msg.DS_TEXT_HELPURL = "DS HELPURL";
