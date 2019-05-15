@@ -6,7 +6,7 @@ Blockly.Blocks["DS.temp"] = {
         this.setInputsInline(true)
         this.setPreviousStatement(false);
         this.setNextStatement(false);
-        this.setColour(58);
+        this.setColour(58); 
         this.setTooltip(Blockly.Msg.DS_TEXT_TOOLTIP);
         this.setHelpUrl(Blockly.Msg.DS_TEXT_HELPURL);
     }
