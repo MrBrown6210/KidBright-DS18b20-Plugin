@@ -2,7 +2,7 @@ Blockly.Blocks["DS.temp"] = {
     init: function () {
         this.appendDummyInput()
             .appendField(Blockly.Msg.DS_TEXT_TEMP_TITLE);
-        this.setOutput(true, 'float');
+        this.setOutput(true, 'Number');
         this.setInputsInline(true)
         this.setPreviousStatement(false);
         this.setNextStatement(false);
